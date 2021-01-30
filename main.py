@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import pandas as pd
 
+#You're welcome to use this code as you like, you can set the year and season variables to whatever you want and it *should* work.
+
 START_YEAR = 1981
 START_SEASON = 1  # winter=1,...,fall=4
 
